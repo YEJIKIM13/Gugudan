@@ -20,7 +20,7 @@ public class Gugudan {
 		for(int i = 1; i <10; i++) {
 			int result = input * i; 
 			System.out.println(result); 
-			
+
 		}
 		
 		// 6단
