@@ -16,5 +16,6 @@ public class GugudanMission2 {
 				System.out.println(i * j);
 			}
 		}
+		
 	}
 }
